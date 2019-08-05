@@ -1,4 +1,4 @@
-# Item Cold-Start Recommendation By Embedding Space Soft-Clustering
+# Item Cold-Start Recommendation Using Soft-Cluster Embeddings
 
 The following modules needs to be installed
 
